@@ -9,6 +9,7 @@ body{
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
+  background-color: lightgrey;
  }
  
  h1{
@@ -28,7 +29,8 @@ table, th, td{
   padding: 0;
   border: solid 2px black;
   border-collapse: collapse;
-  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .footer{
