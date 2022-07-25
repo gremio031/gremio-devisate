@@ -1,2 +1,2 @@
-# gremio-devisate
-Sites com alguma relação ao grêmio estudantil da ETEC Antônio Devisate
+# Interclasse
+Site que contém um Q&A com informações sobre a interclasse
